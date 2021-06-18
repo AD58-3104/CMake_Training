@@ -1,0 +1,1 @@
+/hellolibの中で共有ライブラリを作ってmainにリンクする。CMakeLists.txtはhellolibの中と/mainの中に2つ作る。実行ファイルはbuildの中。
